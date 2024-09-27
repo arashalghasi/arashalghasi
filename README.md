@@ -6,4 +6,3 @@ I am currently focused on finishing my university degree and working on my thesi
 * 🌍  I'm based in Genoa, Italy
 * 🔭 I'm currently learning about Microcontrollers.
 - 📫 How to reach me: arash.alqasi@gmail.com
-* 🏡 [My website](https://cv.arashalghasi.me)
