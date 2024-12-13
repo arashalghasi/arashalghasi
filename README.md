@@ -4,5 +4,5 @@ I am Arash Alghasi, a dedicated final-year student at Genoa University, where I 
 I am currently focused on my thesis.
 
 * 🌍  I'm based in Savona, Italy
-* 🔭 I'm currently learning about STM32 HAL Library.
+* 🔭 I'm currently learning about MCU.
 - 📫 How to reach me: arash.alqasi@gmail.com
