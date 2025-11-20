@@ -4,5 +4,5 @@ I am Arash Alghasi, a dedicated final-year student at Genoa University, where I 
 I am currently focused on my graduation.
 
 * 🌍  I'm based in Genoa, Italy
-* 🔭 I'm currently learning Mathematics.
+* 🔭 I'm currently learning software systems.
 - 📫 How to reach me: arash.alqasi@gmail.com
