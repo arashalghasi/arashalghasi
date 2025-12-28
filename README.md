@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I am Arash Alghasi, a dedicated final-year student at Genoa University, where I am pursuing my second Bachelor's degree in Computer Engineering.
-I am currently focused on my graduation.
+I am Arash Alghasi, a computer engineer.
+I am currently focused on my work.
 
 * 🌍  I'm based in Genoa, Italy
-* 🔭 I'm currently learning software systems.
+* 🔭 I'm currently learning software platforms.
 - 📫 How to reach me: arash.alqasi@gmail.com
