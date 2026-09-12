@@ -1,8 +1,7 @@
-### Hi there 👋
+### Hi
 
 I am Arash Alghasi, a computer engineer.
-I am currently focused on my work.
 
 * 🌍  I'm based in Genoa, Italy
-* 🔭 I'm currently learning software platforms.
+* 🔭 I'm currently learning observability.
 - 📫 How to reach me: arash.alqasi@gmail.com
